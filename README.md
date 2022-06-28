@@ -1,5 +1,5 @@
 My school project version of Chrome Dino game (https://en.wikipedia.org/wiki/Dinosaur_Game) on Arduino Esplora.
-The game requieres SD card inserted with textures for dino and cactus.
+The game requires SD card inserted with textures for dino and cactus.
 
 User manual:
 The game is controlled using up button (switch 3) on Arduino Esplora. After pressing the character jumps in the air and then progressively falls down.
